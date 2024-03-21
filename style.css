@@ -1,0 +1,49 @@
+/* Styles for the navigation bar */
+.navbar {
+    background-color: #343a40; /* Dark background color */
+}
+
+.navbar-brand {
+    color: #ffffff; /* Text color for the brand/logo */
+}
+
+.navbar-toggler-icon {
+    background-color: #ffffff; /* Color for the toggler icon */
+}
+
+.nav-link {
+    color: #ffffff !important; /* Text color for navigation links */
+}
+
+.nav-link:hover {
+    color: #ffc107 !important; /* Text color for navigation links on hover */
+}
+
+/* Styles for the search form */
+.form-control {
+    width: 250px;
+    margin-right: 10px;
+}
+
+/* Styles for the search button */
+.btn-outline-success {
+    color: #28a745; /* Text color for the search button */
+    border-color: #28a745; /* Border color for the search button */
+}
+
+.btn-outline-success:hover {
+    background-color: #28a745; /* Background color on button hover */
+    color: #ffffff; /* Text color on button hover */
+}
+
+/* General body styles */
+body {
+    font-family: Arial, sans-serif; /* Specify your preferred font-family */
+    background-color: #f0f0f0; /* Background color for the body */
+}
+
+.container {
+    margin-top: 20px; /* Add some spacing from the top */
+}
+
+/* Additional styles for your content can be added here */
